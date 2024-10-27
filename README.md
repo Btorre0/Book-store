@@ -25,7 +25,7 @@ source: [Tech Target](https://www.techtarget.com/searchwindowsserver/definition/
    Change to the project directory:
 
    ```sh
-   cd project-2-book-store-dll-adapter-Btorre0
+   cd Book-store
    ```
 
 3. **Install Dependencies:**
@@ -77,7 +77,8 @@ README.md
  file under a new section:
 
 ```markdown
-# Download and Test the Code
+
+## Download and Test the Code
 
 1. **Clone the Repository:**
    ```sh
@@ -86,7 +87,7 @@ README.md
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd project-2-book-store-dll-adapter-Btorre0
+   cd Book-store
    ```
 
 3. **Install Dependencies:**
