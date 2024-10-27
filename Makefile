@@ -81,12 +81,10 @@ debug:	$(BIN)
 
 
 #
-gradescope: clean
-gradescope:	test
 tests:		test
 test:		$(BIN_TESTS) $(BIN_LEAK_CHECKER)
 	$(BIN_TESTS)
-.PHONY: gradescope tests test
+.PHONY: tests test
 
 
 #
