@@ -70,14 +70,6 @@ source: [Tech Target](https://www.techtarget.com/searchwindowsserver/definition/
 6. **Check Output:**
    Verify the output in the terminal or any other output medium specified by your project.
 
-Add these instructions to your 
-
-README.md
-
- file under a new section:
-
-```markdown
-
 ## Download and Test the Code
 
 1. **Clone the Repository:**
